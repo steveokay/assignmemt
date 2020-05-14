@@ -45,7 +45,7 @@
 4. you can be able to clisk and test the functionalities .
 
 ### Question 4: [Borrowing friends and iou's](https://github.com/steveokay/assignmemt/tree/master/Restful%20API)
-**Swapi API**
+**Borrowing friends**
 **Requirements to run the solution**
 1. Python runtime.
 2. Any code editor that supports python.
